@@ -22,8 +22,14 @@ Issue the next 3 commands:
 The 'saveenv' will write the modified environment to the boot partition as a file 'u-boot.env'
 This file will be read in all following boots and can safely be copied to the boot partition when creating images.
 
+Nanopi Neo
+=================
+- Toolchain gcc version 4.9.3 (ctng-1.21.0-229g-FA)  
+- Link to nikkov's work  
+https://github.com/nikkov/Volumio-NanoPi-Neo
+
   
-Nanopi Neo2 (WIP)  
+Nanopi Neo2
 =================
 
 - 20191029 Initial
