@@ -47,5 +47,9 @@ disable i2c1 & i2s2
 locate "config SND_SOC_PCM5102A"
 then modify 'tristate' to 'tristate "Texas Instruments PCM5102A"'
 
+- 20191029/ gkkpch  
+patch for improved ALSA DSD direct support  
+
+
 
 
