@@ -56,7 +56,9 @@ then modify 'tristate' to 'tristate "Texas Instruments PCM5102A"'
 - reverted to kernel 4.11.y (4.11.2+)
 - added nikkov's dtb's
 - default dtb copied to "sun50i-h5-nanopi-neo2.dtb":  
-  *sun50i-h5-nanopi-neo2-i2s-generic.dtb*
+  *sun50i-h5-nanopi-neo2-i2s-generic.dtb*  
+- fixed an issue with mmc, reverted the fol.lowing patch   
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/drivers?id=2154d94b40ea2a5de05245521371d0461bb0d669
 
 
 
