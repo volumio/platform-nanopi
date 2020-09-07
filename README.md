@@ -61,9 +61,12 @@ then modify 'tristate' to 'tristate "Texas Instruments PCM5102A"'
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/drivers?id=2154d94b40ea2a5de05245521371d0461bb0d669
 
 **20191029/ gkkpch**
-- Kernel: removed support for formats >192Khz
-- Kernel: created default neo2 dts and neo2-i2s-generic dts from nikkov's dtb 
+- Kernel: removed support for formats >192Khz  
+- Kernel: created default neo2 dts and neo2-i2s-generic dts from nikkov's dtb   
 
+ **20200907/ gkkpch**
+ - Platform files for NanoPi Neo3  
+ - Create separate dts for Neo3 as the Nanopi-R2S dts has conflicts when usingI2S   
  
 
 
