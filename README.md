@@ -61,9 +61,24 @@ then modify 'tristate' to 'tristate "Texas Instruments PCM5102A"'
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/drivers?id=2154d94b40ea2a5de05245521371d0461bb0d669
 
 **20191029/ gkkpch**
-- Kernel: removed support for formats >192Khz
-- Kernel: created default neo2 dts and neo2-i2s-generic dts from nikkov's dtb 
+- Kernel: removed support for formats >192Khz  
+- Kernel: created default neo2 dts and neo2-i2s-generic dts from nikkov's dtb   
 
+Nanopi Neo3
+=================
+
+- kernel from https://github.com/friendlyarm/kernel-rockchip  
+- branch: **nanopi-r2-v5.4.y**  
+- u-boot from Armbian package **linux-u-boot-current-nanopineo3_20.08.0-trunk_arm64.deb**  
+- dts based on **rk3328-nanopi-r2-rev00.dts** with  
+   added pcm5102a codec node  
+   added sound-i2s node  
+   enabled i2s   
+- pinctrl for i2s fixed by removing conflicting pins from leds_gpio  
+
+ **20200907/ gkkpch**
+ - Initial platform files for NanoPi Neo3  
+ - Change dtb name to rk3328-nanopi-neo3-rev02.dtb    
  
 
 
