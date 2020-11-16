@@ -79,7 +79,8 @@ Nanopi Neo3
  **20200907/ gkkpch**
  - Initial platform files for NanoPi Neo3  
  - Change dtb name to rk3328-nanopi-neo3-rev02.dtb    
- 
+ - Change USB mass storage to kernel built-in module   
+
 
 
 
