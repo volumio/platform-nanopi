@@ -80,7 +80,15 @@ Nanopi Neo3
  - Initial platform files for NanoPi Neo3  
  - Change dtb name to rk3328-nanopi-neo3-rev02.dtb    
  - Change USB mass storage to kernel built-in module   
- - Updated WiFi settings, added latest Realtek & Ralink firmware
+ 
+ **20201203/ gkkpch**
+ - Updated WiFi settings, added latest Realtek & Ralink firmware  
+
+**20201209/ gkkpch**
+- Updated Realtek/Ralink firmware  
+
+
+ 
 
 
 
