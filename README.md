@@ -87,6 +87,11 @@ Nanopi Neo3
 **20201209/ gkkpch**
 - Updated Realtek/Ralink firmware  
 
+**20201221/ gkkpch**
+- Limited audio to 16 and 24bit  
+
+
+
 
  
 
