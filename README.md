@@ -68,6 +68,7 @@ https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/driver
 - Kernel: switched to nikkov's friendlyarm 4.14, taken from MINIDSP
 - Kernel: added sun4i-i2s patch for swapping L/R channels, taken patch from MINIDSP
 - boot.cmd modified version to run with 4.14, taken from MINIDSP
+- Modified kernel params to include cp15 barrier emulation
 
 Nanopi Neo3
 =================
