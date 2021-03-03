@@ -69,6 +69,7 @@ https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/driver
 - Kernel: added sun4i-i2s patch for swapping L/R channels, taken patch from MINIDSP
 - boot.cmd modified version to run with 4.14, taken from MINIDSP
 - Modified kernel params to include cp15 barrier emulation
+- MOdified kernel config to eliminate HDMI sound/ add default MINIDSP dtb
 
 Nanopi Neo3
 =================
