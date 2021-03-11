@@ -74,6 +74,9 @@ https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/driver
 **20210304/ gkkpch**
 - Used our previous 4.11 and added MINIDPS modified sun4i-i2s driver
 
+**20210311/ gkkpch**
+- Kernel 4.14 with MINIDSP's patched sun4i-i2s driver (version 11 March 2021, 5:09)
+
 Nanopi Neo3
 =================
 
@@ -99,6 +102,8 @@ Nanopi Neo3
 
 **20201221/ gkkpch**
 - Limited audio to 16 and 24bit
+
+
 
 
 
