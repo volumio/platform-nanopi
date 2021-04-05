@@ -79,6 +79,7 @@ https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/driver
 
 **20210405/ gkkpch**
 - Added missing RTL8188EU from Staging drivers 
+- rt2800usb: include support for unknown (usb) devices  
 
 Nanopi Neo3
 =================
