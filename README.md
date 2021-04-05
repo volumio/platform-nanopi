@@ -1,4 +1,3 @@
-/media/nas/nanopi/nanopi-neo2.tar.xz# platform-nanopi
 
 nanopi A64 (WIP)
 ================
