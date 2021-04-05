@@ -77,6 +77,9 @@ https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/driver
 **20210311/ gkkpch**
 - Kernel 4.14 with MINIDSP's patched sun4i-i2s driver (version 11 March 2021, 5:09)
 
+**20210405/ gkkpch**
+- Added missing RTL8188EU from Staging drivers 
+
 Nanopi Neo3
 =================
 
