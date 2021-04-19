@@ -107,7 +107,10 @@ Nanopi Neo3
 **20201221/ gkkpch**
 - Limited audio to 16 and 24bit
 
+**20210409/ gkkpch  
+- Updated to rockchip kernel v5.4.75
 
+  
 
 
 
