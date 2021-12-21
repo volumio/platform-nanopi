@@ -78,8 +78,11 @@ https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/driver
 - Kernel 4.14 with MINIDSP's patched sun4i-i2s driver (version 11 March 2021, 5:09)
 
 **20210405/ gkkpch**
-- Added missing RTL8188EU from Staging drivers 
-- rt2800usb: include support for unknown (usb) devices  
+- Added missing RTL8188EU from Staging drivers
+- rt2800usb: include support for unknown (usb) devices
+
+**20211221/ gkkpch**
+- Cleanup unused boot.cmd
 
 Nanopi Neo3
 =================
@@ -107,10 +110,10 @@ Nanopi Neo3
 **20201221/ gkkpch**
 - Limited audio to 16 and 24bit
 
-**20210409/ gkkpch  
+**20210409/ gkkpch**
 - Updated to rockchip kernel v5.4.75
 
-  
+
 
 
 
