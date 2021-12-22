@@ -81,8 +81,12 @@ https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/driver
 - Added missing RTL8188EU from Staging drivers
 - rt2800usb: include support for unknown (usb) devices
 
-**20211221/ gkkpch**
+**20212221/ gkkpch**
 - Cleanup unused boot.cmd
+
+**20211222/ gkkpch**
+- boot.cmd, changed volumio.initrd to uInitrd
+
 
 Nanopi Neo3
 =================
