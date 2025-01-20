@@ -100,6 +100,10 @@ Nanopi Neo3
    enabled i2s
 - pinctrl for i2s fixed by removing conflicting pins from leds_gpio
 
+ **20250120/ paolosabatino**
+ - Added rtl8821cu kernel driver module
+ - Compiled with gcc 9.4
+
  **20200907/ gkkpch**
  - Initial platform files for NanoPi Neo3
  - Change dtb name to rk3328-nanopi-neo3-rev02.dtb
